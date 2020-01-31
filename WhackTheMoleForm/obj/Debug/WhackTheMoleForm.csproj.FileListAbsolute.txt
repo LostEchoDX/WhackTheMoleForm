@@ -1,0 +1,11 @@
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\bin\Debug\WhackTheMoleForm.exe.config
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\bin\Debug\WhackTheMoleForm.exe
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\bin\Debug\WhackTheMoleForm.pdb
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\bin\Debug\System.Drawing.Common.dll
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\obj\Debug\WhackTheMoleForm.csprojAssemblyReference.cache
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\obj\Debug\WhackTheMoleForm.Form1.resources
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\obj\Debug\WhackTheMoleForm.Properties.Resources.resources
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\obj\Debug\WhackTheMoleForm.csproj.GenerateResource.cache
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\obj\Debug\WhackTheMoleForm.csproj.CopyComplete
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\obj\Debug\WhackTheMoleForm.exe
+C:\Users\LostE\source\repos\WhackTheMoleForm\WhackTheMoleForm\obj\Debug\WhackTheMoleForm.pdb
